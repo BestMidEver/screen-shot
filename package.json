@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "capture-website": "^2.3.0"
+  },
+  "type": "module"
+}
